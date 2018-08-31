@@ -1,0 +1,26 @@
+C:\Users\dothackzero\Desktop\DadProject\DadProject\bin\Debug\DadProject.exe
+C:\Users\dothackzero\Desktop\DadProject\DadProject\bin\Debug\DadProject.pdb
+C:\Users\dothackzero\Desktop\DadProject\DadProject\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dothackzero\Desktop\DadProject\DadProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dothackzero\Desktop\DadProject\DadProject\obj\x86\Debug\DadProject.csproj.GenerateResource.Cache
+C:\Users\dothackzero\Desktop\DadProject\DadProject\obj\x86\Debug\DadProject.exe
+C:\Users\dothackzero\Desktop\DadProject\DadProject\obj\x86\Debug\DadProject.pdb
+C:\Users\dothackzero\Desktop\DadProject\DadProject\obj\x86\Debug\DadProject.csprojResolveAssemblyReference.cache
+C:\Users\dothackzero\Desktop\DadProject Split\DadProject\obj\x86\Debug\DadProject.exe
+C:\Users\dothackzero\Desktop\DadProject Split\DadProject\obj\x86\Debug\DadProject.pdb
+C:\Users\dothackzero\Desktop\DadProject Split\DadProject\bin\Debug\DadProject.exe
+C:\Users\dothackzero\Desktop\DadProject Split\DadProject\bin\Debug\DadProject.pdb
+C:\Users\dothackzero\Desktop\DadProject Split\DadProject\obj\x86\Debug\DadProject.csprojResolveAssemblyReference.cache
+C:\Users\dothackzero\Desktop\DadProject Split\DadProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dothackzero\Desktop\DadProject Split\DadProject\obj\x86\Debug\DadProject.csproj.GenerateResource.Cache
+C:\Users\dothackzero\Desktop\DadProject Split\DadProject\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dothackzero\Desktop\DadProject Split\DadProject\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\dothackzero\Desktop\DadProjectdfgdfg\DadProject\obj\x86\Debug\DadProject.exe
+C:\Users\dothackzero\Desktop\DadProjectdfgdfg\DadProject\obj\x86\Debug\DadProject.pdb
+C:\Users\dothackzero\Desktop\DadProjectdfgdfg\DadProject\bin\Debug\DadProject.exe
+C:\Users\dothackzero\Desktop\DadProjectdfgdfg\DadProject\bin\Debug\DadProject.pdb
+C:\Users\dothackzero\Desktop\DadProjectdfgdfg\DadProject\obj\x86\Debug\DadProject.csprojResolveAssemblyReference.cache
+C:\Users\dothackzero\Desktop\DadProjectdfgdfg\DadProject\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dothackzero\Desktop\DadProjectdfgdfg\DadProject\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\dothackzero\Desktop\DadProjectdfgdfg\DadProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dothackzero\Desktop\DadProjectdfgdfg\DadProject\obj\x86\Debug\DadProject.csproj.GenerateResource.Cache
